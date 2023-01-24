@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenniferEinstein
-- 🌱 I’m currently learning Javascript, HTML, and more.
+- 🌱 I’m currently learning Javascript, HTML, CSS, React, and more.
 - 💞️ I’m looking to learn enough to collaborate on anything.
 
 <!---
