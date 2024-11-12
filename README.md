@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JenniferEinstein
-- 🌱 I’m currently learning Javascript, HTML, CSS, React, and more.
-- 💞️ I’m looking to learn enough to collaborate on anything.
+- 👋 Hi, I’m @JenniferEinstein, a full-stack software engineer based in New York City.
+- 🌱 My main tech stacks are Javascript, HTML, CSS, and React. I am also learning Python.
+- 💞️ I’m thinking of going into DevOps.
 
 
 
